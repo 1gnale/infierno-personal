@@ -13,14 +13,14 @@ const OpenBook = ({riddle, checkAnswer}) => {
         position: "relative", 
         top: "-20%",
         left: "15%",
-        width: "400px", 
+        width: "500px", 
         height: "auto",
       }}>
       <img
         src={riddle}
         alt="Libro abierto"
         style={{
-          width: "450px", 
+          width: "550px", 
           height: "auto",
         }}
       />
