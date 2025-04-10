@@ -21,7 +21,7 @@ const FinalMessage = () => {
         '"Pasado para ver el futuro"',
         "Una",
         "Y otra",
-        "Vez"
+        "Y otra vez"
     ];
 
   useEffect(() => {
