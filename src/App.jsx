@@ -12,7 +12,7 @@ import riddle3 from './assets/libro-acertijo-3-ver.png';
 import riddle4 from './assets/libro-acertijo-4-el.png';
 import riddle5 from './assets/libro-acertijo-5-futuro.png';
 import transitionGif from './assets/transition.gif';
-import transitionSound from './assets/transition-sound-effect.wav'; // Importa el archivo de sonido
+import transitionSound from './assets/transition-sound-effect.wav';
 import BackgroundScene from './components/BackgroundScene';
 
 const levels = [

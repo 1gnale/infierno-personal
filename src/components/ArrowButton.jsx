@@ -22,7 +22,7 @@ const ArrowButton = ({ onClick, color}) => {
                 id="memory-arrow-left-bold"
                 transform="rotate(180)"
                 style={{
-                    width: "24px", // Ajusta el tamaño del SVG
+                    width: "24px",
                     height: "24px",
                 }}
             >
